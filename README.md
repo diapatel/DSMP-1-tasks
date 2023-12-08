@@ -1,8 +1,8 @@
 This repository consists of solutions of the tasks of DSMP 1.0 course offered by CampusX.<br>
 [Task 1](https://github.com/diapatel/DSMP-1-tasks/blob/master/strings.ipynb)<br>
 [Task 16 - Pandas series](https://github.com/diapatel/DSMP-1-tasks/tree/master/pandas%20series)<br>
-[Task 17 - Dataframe task](https://github.com/diapatel/DSMP-1-tasks/tree/master/dataframe%20task)<br>
-[Task 18- Dataframe task 2](https://github.com/diapatel/DSMP-1-tasks/tree/master/dataframe%20task%202)<br>
+[Task 17 - Pandas dataframe task](https://github.com/diapatel/DSMP-1-tasks/tree/master/dataframe%20task)<br>
+[Task 18- Pandas dataframe task 2](https://github.com/diapatel/DSMP-1-tasks/tree/master/dataframe%20task%202)<br>
 [Task 21](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2021)<br>
 [Task 22](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2022)<br>
 [Task 32 - SQL DML](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2032%20-%20sql%20DML)<br>
