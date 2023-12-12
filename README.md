@@ -1,5 +1,7 @@
 This repository consists of solutions of the tasks of DSMP 1.0 course offered by CampusX.<br>
 [Task 1 - Python strings](https://github.com/diapatel/DSMP-1-tasks/blob/master/strings.ipynb)<br>
+[Task 2 - Python if-else, break, continue](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%202)<br>
+[Task 3- Python patterns and strings](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%203)<br>
 [Task 7](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%207)<br>
 [Task 8](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%208)<br>
 [Task 16 - Pandas series](https://github.com/diapatel/DSMP-1-tasks/tree/master/pandas%20series)<br>
