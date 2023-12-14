@@ -24,6 +24,7 @@ This repository consists of solutions of the tasks of DSMP 1.0 course offered by
 [Task 37 - SQL Window Functions Part 2](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2037)<br>
 [Task 40](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2040)<br>
 [Task 41 - Normal Distribution](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2041)<br>
+Task 42 was a quiz about Non-Gaussian distributions.<Br>
 [Task 43 - Central Limit Theorem](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2043)<br>
 [Task 44](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2044)<br>
 [Task 46](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2046)<br>
