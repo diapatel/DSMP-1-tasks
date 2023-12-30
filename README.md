@@ -6,7 +6,10 @@ This repository consists of solutions of the tasks of DSMP 1.0 course offered by
 [Task 5 - Python tuples, sets, dictionaries](https://github.com/diapatel/DSMP-1-tasks/tree/master/Task%205)<br>
 [Task 7 - Python OOP basics](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%207)<br>
 [Task 8 - Python OOP- Encapsulation](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%208)<br>
-[Task 16 - Pandas series](https://github.com/diapatel/DSMP-1-tasks/tree/master/pandas%20series)<br>
+[Task 13 - NumPy fundamentals](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2013)<Br>
+[Task 14 - Advanced NumPy](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2014)<br>
+[Task 15 - NumPy tricks](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2015)<br>
+[Task 16 - Pandas series](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2016)<br>
 [Task 17 - Pandas dataframe task](https://github.com/diapatel/DSMP-1-tasks/tree/master/dataframe%20task)<br>
 [Task 18- Pandas dataframe task 2](https://github.com/diapatel/DSMP-1-tasks/tree/master/dataframe%20task%202)<br>
 [Task 21 - Multi-index series and dataframes](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2021)<br>
@@ -16,6 +19,8 @@ This repository consists of solutions of the tasks of DSMP 1.0 course offered by
 [Task 26 - Seaborn Part II](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2026)<br>
 [Task 28 - Data Assessing and cleaning](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2028)<br>
 [Task 29 - EDA](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2029)<br>
+Task 30 was a quiz on Database Fundamentals. <Br>
+Task 31 was a quiz on SQL DDL commands. <Br>
 [Task 32 - SQL DML](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2032%20-%20sql%20DML)<br>
 [Task 33 - SQL Grouping + Sorting](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2033)<br>
 [Task 34 - SQL joins](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2034)<br>
