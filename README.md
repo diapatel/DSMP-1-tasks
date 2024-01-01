@@ -4,6 +4,7 @@ This repository consists of solutions of the tasks of DSMP 1.0 course offered by
 [Task 3- Python patterns and strings](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%203)<br>
 [Task 4 - Python lists](https://github.com/diapatel/DSMP-1-tasks/tree/master/Task%204)<br>
 [Task 5 - Python tuples, sets, dictionaries](https://github.com/diapatel/DSMP-1-tasks/tree/master/Task%205)<br>
+[Task 6 - Lists](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%206)<br>
 [Task 7 - Python OOP basics](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%207)<br>
 [Task 8 - Python OOP- Encapsulation](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%208)<br>
 [Task 13 - NumPy fundamentals](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2013)<Br>
@@ -35,6 +36,7 @@ Task 42 was a quiz about Non-Gaussian distributions.<Br>
 Task 45 was a quiz  about Hypothesis testing.<br>
 [Task 46 - Hypothesis testing](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2046)<br>
 [Task 47 - Linear Algebra](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2047)<br>
+[Task 53 - Multicollinearity](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2053)<Br>
 [Task 55 - Regularization](https://github.com/diapatel/DSMP-1-tasks/tree/master/regularization%20task)<br>
 [Task 56 - KNN](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2056)<br>
 [Task 57 -PCA](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2057)<Br>
