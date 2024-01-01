@@ -22,7 +22,7 @@ This repository consists of solutions of the tasks of DSMP 1.0 course offered by
 [Task 29 - EDA](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2029)<br>
 Task 30 was a quiz on Database Fundamentals. <Br>
 Task 31 was a quiz on SQL DDL commands. <Br>
-[Task 32 - SQL DML](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2032%20-%20sql%20DML)<br>
+[Task 32 - SQL DML](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2032)<br>
 [Task 33 - SQL Grouping + Sorting](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2033)<br>
 [Task 34 - SQL joins](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2034)<br>
 [Task 35 - SQL subqueries](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2035)<br>
