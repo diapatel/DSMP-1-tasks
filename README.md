@@ -7,6 +7,7 @@ This repository consists of solutions of the tasks of DSMP 1.0 course offered by
 [Task 6 - Lists](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%206)<br>
 [Task 7 - Python OOP basics](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%207)<br>
 [Task 8 - Python OOP- Encapsulation](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%208)<br>
+[Task 10 -File serialization and Recursion](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2010)<Br>
 [Task 13 - NumPy fundamentals](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2013)<Br>
 [Task 14 - Advanced NumPy](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2014)<br>
 [Task 15 - NumPy tricks](https://github.com/diapatel/DSMP-1-tasks/tree/master/task%2015)<br>
